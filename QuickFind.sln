@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickFind", "QuickFind\QuickFind.csproj", "{403C7BE3-A262-4197-BBA4-EBCBE1903507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickFind.Test", "QuickFind.Test\QuickFind.Test.csproj", "{4F1581F4-6297-4FB2-BD2C-8B9A37A595E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickFind.Core", "QuickFind.Core\QuickFind.Core.csproj", "{A1461173-75D8-410D-827D-A91C2B3A7F29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{403C7BE3-A262-4197-BBA4-EBCBE1903507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403C7BE3-A262-4197-BBA4-EBCBE1903507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403C7BE3-A262-4197-BBA4-EBCBE1903507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403C7BE3-A262-4197-BBA4-EBCBE1903507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F1581F4-6297-4FB2-BD2C-8B9A37A595E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1581F4-6297-4FB2-BD2C-8B9A37A595E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1581F4-6297-4FB2-BD2C-8B9A37A595E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1581F4-6297-4FB2-BD2C-8B9A37A595E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1461173-75D8-410D-827D-A91C2B3A7F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1461173-75D8-410D-827D-A91C2B3A7F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1461173-75D8-410D-827D-A91C2B3A7F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1461173-75D8-410D-827D-A91C2B3A7F29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
